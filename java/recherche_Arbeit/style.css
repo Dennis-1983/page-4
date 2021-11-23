@@ -1,0 +1,22 @@
+h1{
+    color: gray;
+   }
+
+h2{
+    color: gray;
+    font-size: 30px;
+}
+
+ p {
+     color: rgb(15, 60, 66);
+    font-size: 30px;
+ }  
+ li {
+     font-size: 25px;
+ }
+
+ #li {
+     font-size: 30px;
+     color: rgb(168, 130, 5);
+ }
+  body {background-color: rgb(188, 236, 188);}
